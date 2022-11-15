@@ -1,7 +1,11 @@
 [![Holopin board](https://holopin.io/api/user/board?user=micalevisk)](https://holopin.io/@micalevisk)
 
+<div align="center">
+
 [![micalevisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=micalevisk&show_icons=true&theme=github_dark&hide=stars&custom_title=Run%20$%20npx%20@micalevisk/card)](https://github.com/micalevisk)
 
+</div>
+  
 <!--
 
 ![](https://raw.githubusercontent.com/micalevisk/github-stats/master/generated/overview.svg)
