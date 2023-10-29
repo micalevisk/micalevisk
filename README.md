@@ -1,4 +1,4 @@
-[![Holopin board](https://holopin.io/api/user/board?user=micalevisk)](https://holopin.io/@micalevisk)
+[![An image of @micalevisk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/micalevisk)](https://holopin.io/@micalevisk)
 
 
 <div align="center">
