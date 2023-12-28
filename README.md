@@ -15,3 +15,5 @@
 ![](https://raw.githubusercontent.com/micalevisk/github-stats/master/generated/languages.svg)
 
 -->
+
+<a href="https://u8views.com/github/micalevisk"><img src="https://u8views.com/api/v1/github/profiles/13461315/views/day-week-month-total-count.svg"></a>
