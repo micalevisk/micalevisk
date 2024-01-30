@@ -5,7 +5,7 @@
   
 |  |  |
 :-:|:-:
-[My Contributions to NestJS framework](https://github.com/users/micalevisk/projects/1/views/4) |  [![GitHub Streak](https://streak-stats.demolab.com?user=micalevisk&theme=tokyonight_duo)](https://git.io/streak-stats)
+[My Contributions to NestJS framework](https://github.com/users/micalevisk/projects/1/views/4) <br/> You can find all commits [here](https://github.com/search?q=org%3Anestjs+author%3Amicalevisk&type=commits)|  [![GitHub Streak](https://streak-stats.demolab.com?user=micalevisk&theme=tokyonight_duo)](https://git.io/streak-stats)
 [![](https://codetrace.com/widget/micalevisk)](https://codetrace.com/users/micalevisk) | <code>(!![]+[][(![]+[])[+[]]+(![]+[])[!+[]+!+[]]+(![]+[])[+!+[]]+(!![]+[])[+[]]])[+!+[]+[+[]]]+([![]]+[][[]])[+!+[]+[+[]]]</code> <!-- jsfuck.com -->
 </div>
 
